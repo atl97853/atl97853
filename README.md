@@ -1,7 +1,7 @@
 Hi my name is Atl!. <br>
 I'm a self-taught computer science student. <br>
 I like learning new things on the internet and building software. <br>
-My hobbies are reading science fiction books and play with computer and smartphone operating systems. <br>
+My hobbies are reading science fiction books and tinkering with computer and smartphone operating systems. <br>
 Right now I'm learning, algorithms, data structures, and linux. (: 
 
 <!---
